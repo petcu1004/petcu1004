@@ -1,4 +1,4 @@
-
+### Hi I'm Saemi 👋
 
 <!--
 **petcu1004/petcu1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-<h3>📚 Tech Stack 📚</h3>
+<h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   
 </p>
 
-<h3>🌈 Follow Me 🌈</h3>
+<h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="mailto:msw4585@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=msw4585@gmail.com"/></a>
 </p>
