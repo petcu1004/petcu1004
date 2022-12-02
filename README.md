@@ -26,11 +26,15 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/C++-3DDC84?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/C-3ADC44?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=fluttera&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Dart-000000?style=flat-square&logo=Dart&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/HTML5-02569B?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/CSS-2DAC9B?style=flat-square&logo=CSS&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Ubutu-6BDC8C?style=flat-square&logo=Ubutu&logoColor=white"/></a>&nbsp
   
 </p>
 
