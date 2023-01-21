@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="mailto:msw4585@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=msw4585@gmail.com"/></a>
+  <a href="https://velog.io/@petcu1004"><img src="https://img.shields.io/badge/velog-28AC9B?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@petcu1004"/></a>
 </p>
 
 <!--
