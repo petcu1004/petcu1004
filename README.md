@@ -50,6 +50,12 @@ Here are some ideas to get you started:
 -->
 
 
+프로젝트목록 | 일자 | 사용기술
+------------|------|-------
+금융상품서비스 | 2023 | Node 
+금융추천서비스 | 2023 | Vue 
+
+
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpetcu1004&count_bg=%23666EFD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
